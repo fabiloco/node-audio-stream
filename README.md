@@ -12,5 +12,4 @@ The node packages used in this project are the followings:
 
 ```
 npm i express mongodb cors multer morgan -D
-
 ```
